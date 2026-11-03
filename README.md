@@ -46,6 +46,7 @@ void loop()
 ```
 ## OUTPUT:
 Led ON Working state:
-<img width="684" height="516" alt="WhatsApp Image 2026-10-30 at 8 32 58 AM" src="https://github.com/user-attachments/assets/a333729f-8cf6-4a2c-97dd-f8b69f660242" />
+<img width="697" height="722" alt="Screenshot 2026-11-03 140530" src="https://github.com/user-attachments/assets/da5bfa8f-26c5-4c1b-b513-ca23f7604ccb" />
+
 ## RESULT:
 Thus,To interface a digital input sensor (PIR Sensor )with arduino was executed successfully and the output is verified.
