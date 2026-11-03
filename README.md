@@ -46,6 +46,7 @@ void loop()
 ```
 ## OUTPUT:
 Led ON Working state:
+
 <img width="697" height="722" alt="Screenshot 2026-11-03 140530" src="https://github.com/user-attachments/assets/da5bfa8f-26c5-4c1b-b513-ca23f7604ccb" />
 
 ## RESULT:
